@@ -3,7 +3,7 @@
 > Add me to your server: https://discord.com/api/oauth2/authorize?client_id=1080740415021514762&permissions=377957246976&scope=bot
 ---
 ```!help``` for commands: \
-<img src="https://github.com/qli100/QQ-Bot/blob/main/gifs/help.gif" width=250 height=350>
+<img src="https://github.com/qli100/QQ-Bot/blob/main/gifs/help.gif" width=225 height=350>
 
 
 
